@@ -1,0 +1,19 @@
+## Visual Studio cache / user files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## Temporary / backup files
+*.zip
+*.log
