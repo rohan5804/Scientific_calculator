@@ -16,11 +16,6 @@ A comprehensive C# console-based Scientific Calculator application built with .N
   - Text manipulation, reverse, palindrome checks, and conversions
 - **Number Operations**:
   - Prime checks, factorial, Fibonacci sequences, and number analysis
-- **Modular Arithmetic Libraries**:
-  - `Add` - Addition library
-  - `Subtract` - Subtraction library
-  - `Multiply` - Multiplication library
-  - `Divide` - Division library
 - **Session History**:
   - View calculation results history
   - Clear results cache
@@ -30,16 +25,12 @@ A comprehensive C# console-based Scientific Calculator application built with .N
 ```text
 Calculator/
 ├── Calculator.slnx          # Visual Studio Solution
-├── Calculator/              # Main Console Application
-│   ├── program.cs           # Main entry point & interactive menu
-│   ├── Mathematical Operations.cs
-│   ├── Array Operations.cs
-│   ├── String Operations.cs
-│   └── Number Operations.cs
-├── Add/                     # Addition class library
-├── Subtract/                # Subtraction class library
-├── Multiply/                # Multiplication class library
-└── Divide/                  # Division class library
+└── Calculator/              # Main Console Application
+    ├── program.cs           # Main entry point & interactive menu
+    ├── Mathematical Operations.cs
+    ├── Array Operations.cs
+    ├── String Operations.cs
+    └── Number Operations.cs
 ```
 
 ## Getting Started

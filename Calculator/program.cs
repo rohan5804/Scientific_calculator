@@ -1,13 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Add;
-using Subtract;
-using Multiply;
-using Divide;
-
 namespace Calculator
 {
     internal class program
@@ -15,10 +10,7 @@ namespace Calculator
         
         static void Main(string[] args)
         {
-            Addition add = new Addition();
-
-
-            Console.WriteLine(add.Calculate(3, 6));
+            
 
             List<string> Results = new List<string>();
             int choice;

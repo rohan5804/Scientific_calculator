@@ -1,7 +1,3 @@
 <Solution>
-  <Project Path="Add/Add.csproj" Id="cc535f7c-b1d5-46ed-9089-b9be2e6ddfb9" />
   <Project Path="Calculator/Calculator.csproj" Id="432fc800-dfea-42a3-9dce-48fc80551cb0" />
-  <Project Path="Divide/Divide.csproj" Id="ea0c3505-d82a-4f87-9850-3e732f642ed3" />
-  <Project Path="Multiply/Multiply.csproj" Id="66231a09-01c0-420c-ba09-154e1aefe4ff" />
-  <Project Path="Subtract/Subtract.csproj" Id="fdc6d5b5-8a53-4c82-9623-378ba15658bf" />
 </Solution>
